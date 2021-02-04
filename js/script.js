@@ -18,15 +18,25 @@ function cacherauto() {
 
 
 var x = document.getElementById("automatique");
-
+var v = document.getElementById("automatiqueswitch");
 x.setAttribute("style", "display:none");
+v.setAttribute("style", "display:none");
 
 }
 function affichermanu() {
 
-
 var y = document.getElementById("automatique");
-
+var z = document.getElementById("automatiqueswitch");
 y.setAttribute("style", "display:block");
+z.setAttribute("style", "display:block");
 
+}
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
 }
