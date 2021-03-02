@@ -7,7 +7,7 @@ valueb = 18
 
 
 def rosevent(x):
-
+    print(x)
     while x > 360:
         x = x - 360
     if x < 23:
@@ -44,20 +44,21 @@ def rosevent(x):
         y = "N", x, "°"
 
 
-o = open("./js/setvalue.js", "a")
-o.truncate(0)
-o.write("""document.getElementById("VM") = "Vent Moyen:  """)
-a = str(valuea)
-o.write(a)
-o.write(""" " """)
-o.write("\n")
-o.write("""document.getElementById("VR") = "Vent en Rafale :  """)
-b = str(valueb)
-o.write(b)
-o.write(""" " """)
-o.write("\n")
-o.write("""document.getElementById("DV") = "Direction du Vent :  """)
-y = str(y)
-o.write(y)
-o.write(""" " """)
-exit
+def setvalue(valuea, valueb, y):
+    o = open("./js/setvalue.js", "a")
+    o.truncate(0)
+    o.write("""document.getElementById("VM") = "Vent Moyen:  """)
+    a = str(valuea)
+    o.write(a)
+    o.write(""" " """)
+    o.write("\n")
+    o.write("""document.getElementById("VR") = "Vent en Rafale :  """)
+    b = str(valueb)
+    o.write(b)
+    o.write(""" " """)
+    o.write("\n")
+    o.write("""document.getElementById("DV") = "Direction du Vent :  """)
+    y = str(y)
+    o.write(y)
+    o.write(""" " """)
+    exit
