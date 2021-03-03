@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03422624-3490-4874-8107-b4396dc2eecc" name="Default Changelist" comment="Change the CSS">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/setvalue.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/setvalue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/rose_des_vent.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/rose_des_vent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/setvaleur.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/setvaleur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <workItem from="1613139278123" duration="959000" />
       <workItem from="1613141518803" duration="862000" />
       <workItem from="1613217364416" duration="2080000" />
-      <workItem from="1614697578595" duration="2088000" />
+      <workItem from="1614697578595" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="Change the CSS">
       <created>1613219023446</created>
