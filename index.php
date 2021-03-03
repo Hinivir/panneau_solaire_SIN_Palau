@@ -1,3 +1,6 @@
+<?php
+  setcookie('etatswitch', 'non-secu')
+  ?>
 <!DOCTYPE html>
 <html>
 
@@ -46,7 +49,11 @@
                 <input type="checkbox">
                 <div class="slider"></div>
             </label>
-
+            <?php
+            if(isset($_COOKIE['user_id'])){
+                echo 'Votre ID de session est le ' .$_COOKIE['user_id'];
+            }
+        ?>
         </div>
 
 </body>

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03422624-3490-4874-8107-b4396dc2eecc" name="Default Changelist" comment="Change the CSS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
       <workItem from="1613141518803" duration="862000" />
       <workItem from="1613217364416" duration="2080000" />
       <workItem from="1614697578595" duration="2408000" />
+      <workItem from="1614768960358" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="Change the CSS">
       <created>1613219023446</created>
