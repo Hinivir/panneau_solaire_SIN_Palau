@@ -55,8 +55,8 @@
             }
         ?>
         </div>
-        <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
-        <canvas class="my-4 w-100" id="myChart2" width="900" height="380"></canvas>
+        <canvas id="myChart"></canvas>
+        <canvas id="myChart1"></canvas>
 </body>
 <script type="text/javascript" src="js/script.js"></script>
 <script type="text/javascript" src="js/chart.js"></script>
