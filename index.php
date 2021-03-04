@@ -58,10 +58,11 @@
         <canvas id="myChart"></canvas>
         <canvas id="myChart1"></canvas>
 </body>
-<script type="text/javascript" src="js/script.js"></script>
-<script type="text/javascript" src="js/chart.js"></script>
-<script type="text/javascript" src="js/chart1.js"></script>
-<script type="text/javascript" src="js/Chart.min.js"></script>
-< /div>
+<div>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/chart.js"></script>
+    <script type="text/javascript" src="js/chart1.js"></script>
+    <script type="text/javascript" src="js/Chart.min.js"></script>
+</div>
 
-    < /html>
+</html>
